@@ -1,2 +1,2 @@
-# -Red-neuronal-de-clasificaci-n-con-Keras---FashionMnist
+#  Red neuronal de clasificacion con Keras FashionMnist
 My primera red neuronal de clasificación :)
